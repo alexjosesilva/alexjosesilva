@@ -1,4 +1,4 @@
-# Alex Jose Silva (pai_de_gabriel) :man_technologist:
+# Alex Jose Silva: man_technologist:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexjosesilva)](https://github.com/alexjosesilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexjosesilva/)](https://www.linkedin.com/in/alexjosesilva/)
