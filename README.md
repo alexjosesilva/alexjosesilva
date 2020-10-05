@@ -1,4 +1,7 @@
-![capa_github_alexjosesilva](https://raw.githubusercontent.com/alexjosesilva/alexjosesilva/master/Framework.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexjosesilva/alexjosesilva/master/Framework.png" />
+</p>
+
 <center>
   <table>
     <tr>
