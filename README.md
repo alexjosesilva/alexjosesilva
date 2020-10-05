@@ -37,4 +37,9 @@ I love to learn, so I dedicate myself a lot to each one to learn more about the 
 <br/>.💬 Ask me about: tech, law, languages from different countries and foods.
 <br/> .⚡ Curiosity: I love to travel with my son.
 
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vyctoriak/">LinkedIn</a>
+- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/karinavyc">Spotify</a>
+
+
 <br/>Thank you for reading this far and don't forget to add me on LinkedIn.
