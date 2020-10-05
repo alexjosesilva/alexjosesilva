@@ -13,11 +13,15 @@
 
 
 
-# Alex Jose Silva: man_technologist:
+# Alex Jose Silva(man_technologist)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexjosesilva)](https://github.com/alexjosesilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexjosesilva/)](https://www.linkedin.com/in/alexjosesilva/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexjosesilvati@gmail.com)](mailto:alexjosesilvati@gmail.com/)
+<a href="https://pt.stackoverflow.com/users/5748/alexjosesilva" rel="nofollow noreferrer">
+    <img src="https://imgur.com/FeIMDSj.png" alt="Stackoverflow" width="130" height="30">
+</a> &nbsp; 
+
 <br/>
 ## Hi 👋 
 
@@ -38,8 +42,9 @@ I love to learn, so I dedicate myself a lot to each one to learn more about the 
 <br/> .⚡ Curiosity: I love to travel with my son.
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vyctoriak/">LinkedIn</a>
-- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/karinavyc">Spotify</a>
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/alexjosesilva/">LinkedIn</a>
+- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/12142931607">Spotify</a>
+
 
 
 <br/>Thank you for reading this far and don't forget to add me on LinkedIn.
