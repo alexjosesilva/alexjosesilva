@@ -1,3 +1,15 @@
+![capa_github_alexjosesilva](https://raw.githubusercontent.com/alexjosesilva/alexjosesilva/master/Framework.png)
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjosesilva&hide=html&layout=compact&theme=default" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=alexjosesilva&theme=default" /></td>
+    </tr>   
+  </table>
+</center>
+
+
+
 # Alex Jose Silva: man_technologist:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexjosesilva)](https://github.com/alexjosesilva)
