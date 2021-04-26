@@ -26,24 +26,23 @@
 ## Hi 👋 
 
 <br/>
-My name is Alex Jose Silva, I'm a back-end developer and a passionate about science.
-I love to learn, so I dedicate myself a lot to each one to learn more about the Java language and learn all its frameworks. In addition, I think it is very important for software development that we learned about DevOps and Unit Tests.
+My name is Alex Jose Silva, I'm a back-end developer and a passionate about science computacion. I love to learn, so I dedicate myself a lot to one to learn more about the Java language and learn all its frameworks. In addition, I think it is very important for software development that we learned about DevOps and Unit Tests.
 
-<br/>.📚 Technologist in Systems Analysis and Development.
-<br/> .👩‍🎓 Bachelor in Information System.
-<br/> .👩‍🎓 Master in Software Engineering.
-<br/>.🏢 Im love Hackathons.
-<br/>.💙 In love with Java.
-<br/>.🌱 I’m currently learning more Spring Boot, TDD, DevOps and Agile methodologies.
-<br/>.💻  Techs: Java, Python, C, C++, JavaScript, Angular, React and NodeJS.
-<br/>.🌍 Languages: English and Spanish.
-<br/>.😄 Also Lawyer.
-<br/>.💬 Ask me about: tech, law, languages from different countries and foods.
-<br/> .⚡ Curiosity: I love to travel with my son.
+Degree in Analysis and Development of Systems.
+.👩‍🎓 Technical in developing Software
+.👩‍🎓 Bachelor in Information System.
+.👩‍🎓 Master in Software Engineering.
+.🏢 Passionate about Hackathons.
+.💙 In love with Java.
+.🌱 I’m currently learning more Spring Boot, TDD, DevOps and Agile-Methodology.
+.💻 Techs: Java, Python, Php, C, C++, JavaScript, Angular, React and NodeJS.
+.🌍 Languages: English and Spanish.
+.💬 Ask me about: tech
+.⚡ Curiosity: I love to travel with my son.
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/alexjosesilva/">LinkedIn</a>
-- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/12142931607">Spotify</a>
+- 🎧 Listening to all my favorite jams on <a href="https://www.deezer.com/br/profile/311790753">Deezer</a>
 
 
 
