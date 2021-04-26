@@ -28,17 +28,17 @@
 <br/>
 My name is Alex Jose Silva, I'm a back-end developer and a passionate about science computacion. I love to learn, so I dedicate myself a lot to one to learn more about the Java language and learn all its frameworks. In addition, I think it is very important for software development that we learned about DevOps and Unit Tests.
 
-Degree in Analysis and Development of Systems.
-.👩‍🎓 Technical in developing Software
-.👩‍🎓 Bachelor in Information System.
-.👩‍🎓 Master in Software Engineering.
-.🏢 Passionate about Hackathons.
-.💙 In love with Java.
-.🌱 I’m currently learning more Spring Boot, TDD, DevOps and Agile-Methodology.
-.💻 Techs: Java, Python, Php, C, C++, JavaScript, Angular, React and NodeJS.
-.🌍 Languages: English and Spanish.
-.💬 Ask me about: tech
-.⚡ Curiosity: I love to travel with my son.
+<br/>Degree in Analysis and Development of Systems.
+<br/>.👩‍🎓 Technical in developing Software
+<br/>.👩‍🎓 Bachelor in Information System.
+<br/>.👩‍🎓 Master in Software Engineering.
+<br/>.🏢 Passionate about Hackathons.
+<br/>.💙 In love with Java.
+<br/>.🌱 I’m currently learning more Spring Boot, TDD, DevOps and Agile-Methodology.
+<br/>.💻 Techs: Java, Python, Php, C, C++, JavaScript, Angular, React and NodeJS.
+<br/>.🌍 Languages: English and Spanish.
+<br/>.💬 Ask me about: tech
+<br/>.⚡ Curiosity: I love to travel with my son.
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/alexjosesilva/">LinkedIn</a>
