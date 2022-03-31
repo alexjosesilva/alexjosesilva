@@ -1,26 +1,38 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/alexjosesilva/alexjosesilva/master/Framework.png" />
-</p>
-
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjosesilva&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=alexjosesilva&theme=default" /></td>
-    </tr>   
-  </table>
-</center>
+  <a href="https://github.com/alexjosesilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexjosesilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjosesilva&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
+# Hi Guys!!, Eu sou Alex criador de conteúdo de programação e tecnologia!
 
-# Alex Jose Silva(man_technologist)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Alex-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+  <img align="center" alt="Alex-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alex-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Alex-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+ >
+  
+</div> 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alexjosesilva)](https://github.com/alexjosesilva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexjosesilva/)](https://www.linkedin.com/in/alexjosesilva/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexjosesilvati@gmail.com)](mailto:alexjosesilvati@gmail.com/)
-<a href="https://pt.stackoverflow.com/users/5748/alexjosesilva" rel="nofollow noreferrer">
-    <img src="https://imgur.com/FeIMDSj.png" alt="Stackoverflow" width="130" height="30">
-</a> &nbsp; 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/alexjosesilvati" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/alexjosesilva" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alexjosesilvati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alexjosesilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
 <br/>
 ## Hi 👋 
