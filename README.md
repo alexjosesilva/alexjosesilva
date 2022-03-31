@@ -38,7 +38,7 @@
 ## Hi 👋 
 
 <br/>
-My name is Alex Jose Silva, I'm a back-end developer and a passionate about science computacion. I love to learn, so I dedicate myself a lot to one to learn more about the Java language and learn all its frameworks. In addition, I think it is very important for software development that we learned about DevOps and Unit Tests.
+My name is Alex Jose Silva, I'm a back-end developer and a passionate about science computacion. I love to learn, so I dedicate myself a lot to one to learn more about the Java language and learn all its frameworks. In addition, I think it is very important for software development that we learned about IA and Machine Learning.
 
 <br/>Degree in Analysis and Development of Systems.
 <br/>.👩‍🎓 Technical in developing Software
