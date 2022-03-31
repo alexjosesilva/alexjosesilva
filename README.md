@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alexjosesilva/alexjosesilva/master/purple-gaming-set-up-1-1024x638.jpg" />
+  <img src="https://raw.githubusercontent.com/alexjosesilva/alexjosesilva/master/periodic-table-desk-pad.jpg" />
   <a href="https://github.com/alexjosesilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexjosesilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjosesilva&layout=compact&langs_count=7&theme=dracula"/>
