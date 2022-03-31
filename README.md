@@ -52,9 +52,12 @@ My name is Alex Jose Silva, I'm a back-end developer and a passionate about scie
 <br/>.💬 Ask me about: tech
 <br/>.⚡ Curiosity: I love to travel with my son.
 
+ 
+
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/alexjosesilva/">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://www.deezer.com/br/profile/311790753">Deezer</a>
+  - ✍️ Medium Profile <a href="https://medium.com/@alexjosesilva">Medium</a>
 
 
 
