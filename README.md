@@ -46,6 +46,7 @@ My name is Alex Jose Silva, I'm a back-end developer and a passionate about scie
 <br/>.👩‍🎓 Technical in developing Software
 <br/>.👩‍🎓 Bachelor in Information System.
 <br/>.👩‍🎓 Master in Software Engineering.
+<br/>.👩‍🎓 PHD Student in Computational Theory.
 <br/>.🏢 Passionate about Hackathons.
 <br/>.💙 In love with Java.
 <br/>.🌱 I’m currently learning more Spring Boot, TDD, DevOps and Agile-Methodology.
