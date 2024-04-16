@@ -5,7 +5,7 @@
 </div>
 
 
-## Hi!!, Eu sou Alex criador de conteúdo sobre programação e tecnologia!
+## Hi!!, I'm Alex, a content creator about programming and technology!
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Alex-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
