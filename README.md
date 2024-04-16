@@ -21,6 +21,7 @@
   <img align="center" alt="Alex-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   <img align="center" alt="Alex-aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="Alex-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" />
+   <img align="center" alt="Alex-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" />
   <img align="center" alt="Alex-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
 </div> 
