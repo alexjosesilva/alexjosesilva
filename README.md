@@ -1,12 +1,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/alexjosesilva/alexjosesilva/master/periodic-table-desk-pad.jpg" />
   <a href="https://github.com/alexjosesilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexjosesilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexjosesilva&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
 
 
-## Hi Guys!!, Eu sou Alex criador de conteúdo sobre programação e tecnologia!
+## Hi!!, Eu sou Alex criador de conteúdo sobre programação e tecnologia!
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Alex-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
