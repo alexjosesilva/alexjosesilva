@@ -46,6 +46,7 @@ My name is Alex Jose Silva, I'm a back-end developer and a passionate about scie
 <br/>Degree in Analysis and Development of Systems.
 <br/>.👩‍🎓 Technical in developing Software at <a href="https://www.etepam.pe.gov.br/" target="_blank">ETEPAM</a>
 <br/>.👩‍🎓 Bachelor in Information System at <a href="https://estacio.br/" target="_blank">Estácio de Sá</a>
+<br/>.👩‍🎓 Postgraduate in Deep Learning  at <a href="https://posdeeplearning.cin.ufpe.br/" target="_blank">UFPE</a>
 <br/>.👩‍🎓 Master in Software Engineering at <a href="https://www.cesar.school/" target="_blank">Cesar School</a>
 <br/>.👩‍🎓 PHD Student in Computational <a href="https://poli.br/" target="_blank">Theory at UPE</a>
 <br/>.🏢 Passionate about Hackathons.
